@@ -9,8 +9,8 @@ DOWNLOAD_URL = f"{API_BASE}/downloadfile"
 REGISTER_URL = f"{API_BASE}/registeruser"
 
 # 🎨 Page Setup
-st.set_page_config(page_title="InstaShare", page_icon="📁")
-st.markdown("<h1 style='text-align: center; color: #4B8BBE;'>InstaShare</h1>", unsafe_allow_html=True)
+st.set_page_config(page_title="CloudBox", page_icon="📁")
+st.markdown("<h1 style='text-align: center; color: #4B8BBE;'>CloudBox</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Secure, Simple & Serverless 💡</p>", unsafe_allow_html=True)
 
 st.divider()
